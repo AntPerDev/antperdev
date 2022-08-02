@@ -2,7 +2,11 @@
 
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him/his/his/himself
-- - 🔭 I’m currently working on ...
+- 🌱 I am taking Fernando Herrera's revised TypeScript course on Udemy.
+- 🔭 Looking for a job.
+- 📫 How to reach me: https://www.linkedin.com/in/antperdev
+
+
 <!-- https://antperdev.github.io
 **AntPerDev/antperdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
